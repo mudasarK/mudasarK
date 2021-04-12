@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: [My Page](https://mudasark.github.io/)
 - ⚡ Fun fact: I'm a huge fan of The Lord of the Rings
-<!--
-- 😄 Pronouns: ...
--->
+
