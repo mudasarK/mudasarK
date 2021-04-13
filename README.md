@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a CV / ML Research Engineer Research Engineer working in Seoul, South Korea.
+#### I'm a CV / ML Research Engineer working in Seoul, South Korea.
 
 <!--
 **mudasarK/mudasarK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
